@@ -4,7 +4,7 @@
 
 # Trainee Exercise (TodoCode)
 
-This is a trainee exercise that I obtained from [TodoCode YT Channel](https://www.youtube.com/watch?v=npfzSC8B3aM&list=WL&index=2&t=1088s).\
+This is a trainee exercise that I obtained from [TodoCode YT Channel](https://www.youtube.com/watch?v=npfzSC8B3aM&list=WL&index=2&t=1088s).
 
 ## Table of Contents
 
